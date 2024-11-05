@@ -35,7 +35,7 @@ Email Validator Pro is a comprehensive email validation system featuring an Andr
 3. **Data Storage and Analytics**
    - Utilizes MongoDB for logging validation data
    - Implements a dashboard for displaying operational analytics
-
+6
 ## Setup and Deployment
 - The project is deployed using GitHub Codespaces
 - Web Service URL: `https://studious-guacamole-v66x6jvw9g9pcx6pw-8080.app.github.dev/`
